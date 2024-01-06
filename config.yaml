@@ -1,12 +1,12 @@
 #Bot language/Язык ботов (en_US ru_RU uk_UA de_DE)
 language: "en_US"
 #Server IP/Айпи адрес сервера
-ip: "localhost"
+ip: "ioann137.aternos.me:3888"
 #Server Port/Порт сервера
-port: 25565
+port: 38884
 #Bot password/Пароль ботов
 password: "123412341234"
 #Delay between connections (in ms)/Задержка между подключениями (в мс)
 interval: 8000
 #Minecraft version/Версия майнкрафта
-version: "1.18.2"
+version: "1.16.5"
